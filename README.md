@@ -20,15 +20,15 @@ Este app serve para a gerenciar eventos, possibilitando a criação, gerenciment
 - Firebase usando o Firestore para armazenamento e o Firebase Auth para login
 
 # Login
-<img src="assets/screen_shorts/TelaLogin.jpg" heigth=200 width="200">
+<img src="assets/screen_shorts/TelaLogin.jpg" heigth=500 width="500">
 
 # Cadastro
-<img src="assets/screen_shorts/TelaCadastroParte1.jpg" heigth=200 width="200">
-<img src="assets/screen_shorts/TelaCadastroParte2.jpg" heigth=200 width="200">
+<img src="assets/screen_shorts/TelaCadastroParte1.jpg" heigth=500 width="500">
+<img src="assets/screen_shorts/TelaCadastroParte2.jpg" heigth=500 width="500">
 
 
 # Outras telas
-<img src="assets/screen_shorts/TelaProfile.jpg" heigth=200 width="200">
-<img src="assets/screen_shorts/TelaVisualizarEventos.jpg" heigth=200 width="200">
+<img src="assets/screen_shorts/TelaProfile.jpg" heigth=500 width="500">
+<img src="assets/screen_shorts/TelaVisualizarEventos.jpg" heigth=500 width="500">
 
 

@@ -56,5 +56,4 @@ test/
 uesb_eventos.iml
 analysis_options.yaml
 pubspec.lock
-metadata
 /lib/firebase_options.dart
