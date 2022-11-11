@@ -1,0 +1,41 @@
+name: uesb_eventos
+description: Aplicativo para gestão de eventos dentro da instituição Uesb.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_staggered_grid_view:
+  cupertino_icons: ^1.0.2
+  auto_size_text: ^3.0.0
+  flutter_rating_bar: ^4.0.1
+  provider:
+  flutter_form_builder:
+  form_builder_validators:
+  brasil_fields: 1.6.0
+  flutter_localizations:
+    sdk: flutter
+  cpf_cnpj_validator:
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/home_events/
